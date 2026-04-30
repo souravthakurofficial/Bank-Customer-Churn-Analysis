@@ -7,32 +7,47 @@ Analyze customer churn behavior to identify key drivers affecting retention and 
 ### 🔹 Tools & Technologies
 
 Microsoft Excel
+
 Pivot Tables & Charts
+
 Data Cleaning & Transformation
+
 KPI Dashboard Design
 
 ### 🔹 Key Analysis Performed
 
 Churn analysis by age, gender, and location
+
 Customer segmentation based on tenure and product usage
+
 Comparison of churned vs retained customers (balance, activity, complaints)
+
 Impact analysis of credit score, satisfaction, and card type
+
 Identification of high-risk customer segments
 
 ### 🔹 Key Insights
 
 Higher churn observed among high-balance customers
+
 Germany region shows significantly higher churn rate
+
 Customers with low credit scores are more likely to churn
+
 Female customers have higher churn compared to males
+
 Customers raising complaints show the highest churn probability
+
 Product overload (3–4 products) correlates with increased churn
 
 ### 🔹 Dashboard Features
 
 Interactive KPI summary (Churn Rate, Retention Rate, Avg Balance)
+
 Dynamic filtering by demographics and customer segments
+
 Visual breakdown of churn drivers
+
 Comparative analysis using pivot-based dashboards
 
 ### 🔹 Dashboard Preview
@@ -44,28 +59,40 @@ Comparative analysis using pivot-based dashboards
 ### 🔹 Files Included
 
 Excel Dashboard File (.xlsx)
+
 Cleaned Dataset
+
 Dashboard Screenshots
+
 Project Presentation (PPT)
 
 ### 🔹 Business Impact
 
 Identified revenue loss from high-value churn customers
+
 Enabled targeted retention strategies for high-risk segments
+
 Improved decision-making using data-driven insights
+
 Highlighted importance of customer complaint resolution systems
 
 ### 🔹 Skills Demonstrated
 
 Data Analysis & Interpretation
+
 Business Intelligence & Dashboarding
+
 Customer Segmentation
+
 KPI Reporting
+
 Problem-Solving with Data
 
 ### 🔹 Future Improvements
 
 Integrate Power BI for advanced visualization
+
 Apply machine learning models for churn prediction
+
 Automate reporting using Python
 
